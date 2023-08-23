@@ -1,0 +1,23 @@
+{
+  "name": "introduccion",
+  "version": "1.0.0",
+  "description": "Practica para el control de versiones",
+  "main": "index.js",
+  "scripts": {
+    "test": "------",
+    "Cambiar": "sass EstiloPrincipal.scss EstiloPrincipal.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeendyM/ProgramacionWebHibrida.git"
+  },
+  "keywords": [
+    "manu"
+  ],
+  "author": "manu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeendyM/ProgramacionWebHibrida/issues"
+  },
+  "homepage": "https://github.com/MeendyM/ProgramacionWebHibrida#readme"
+}
